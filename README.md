@@ -1,2 +1,2 @@
-# triangulation
-This code uses boost polygon voronoi builder to generate a triangiulation from a set of sparse points 
+# Triangulation
+This code uses boost polygon voronoi builder to triangulate sparse points 
